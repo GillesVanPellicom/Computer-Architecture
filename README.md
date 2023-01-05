@@ -8,4 +8,4 @@ To run the programs, navigate to the title bar in logisim, "simulate" and adjust
 
 
 ## Run requirements
-- Logisim 2.7.1
+- Logisim 2.7.1 (not evolution)
