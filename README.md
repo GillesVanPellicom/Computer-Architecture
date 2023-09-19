@@ -1,6 +1,6 @@
 # Computer_Architecture
 ###### Archival upload. 
-### Custom 12-bit MIPS processor for the computer architecture course in uAntwerp-BA1 inf.\
+### Custom 12-bit MIPS processor for the computer architecture course in uAntwerp-BA1 inf.
 #### Made by Jonas Caluwé & Gilles Van pellicom.
 Based on designs from David A. Patterson & John L. Hennessy.<br><br>
 "SD_Group11.circ" is the top layer of the project. Open this to run the project.\
